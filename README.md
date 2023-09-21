@@ -1,4 +1,4 @@
-# **PENGUMPULAN TUGAS Pengolahan Citra dan Visi Komputer 2023**
+# **Pengumpulan Tugas Pengolahan Citra dan Visi Komputer 2023**
 
 ### **Nama &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Salma Annissa Azizi**
 ### **No / Kelas &nbsp;: 28 / TI-3F**
